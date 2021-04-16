@@ -14,9 +14,5 @@ To use the web app
 Screenshots
 -----------
 <img src="https://www.linkpicture.com/q/Screenshot-from-2021-01-10-18-56-14.png" type="image" height="300">
-<img src="https://www.linkpicture.com/q/Screenshot-from-2021-01-10-18-56-19.png" type="image" height="300">
-<img src="https://www.linkpicture.com/q/Screenshot-from-2021-01-10-18-56-44.png" type="image" height="300">
 <img src="https://www.linkpicture.com/q/Screenshot-from-2021-01-10-18-57-03.png" type="image" height="300">
-<img src="https://www.linkpicture.com/q/Screenshot-from-2021-01-10-18-57-13.png" type="image" height="300">
 <img src="https://www.linkpicture.com/q/Screenshot-from-2021-01-10-18-57-19.png" type="image" height="300">
-<img src="https://www.linkpicture.com/q/Screenshot-from-2021-01-10-18-57-40.png" type="image" height="300">

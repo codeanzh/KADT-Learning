@@ -2,6 +2,8 @@
 
 Inorder to use chrome extension, refer this repository for instructions <a href="https://github.com/tanvee09/productivity-monitor_chrome-extension">link</a>.
 
+# Hackathon Submission <a href="https://devfolio.co/submissions/kadt-learning-0d3c">link</a>.
+
 To use the web app
 -------------------
 1. Clone the repository
